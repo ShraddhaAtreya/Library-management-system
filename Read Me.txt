@@ -1,0 +1,8 @@
+
+VIRTUAL LIBRARY MANAGEMENT SYSTEM
+
+1) To run this project make sure you've "xampp" and "Apache Netbeans" installed on your desktop. Also check if java is installed properly or not.
+2) The id and password are created from database only.
+3) I've added a file dump which contains database for this project, import this data and make sure username for xampp are set to: root
+
+Thank you!
